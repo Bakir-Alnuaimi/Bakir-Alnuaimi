@@ -1,16 +1,1 @@
-<div align="center">
-# Hi, I'm Bakir 👋
- 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2358D4&center=true&vCenter=true&width=520&lines=Computer+Engineer+(M.Eng.)+%C2%B7+Berlin;DevOps+%26+CI%2FCD+with+GitLab%2C+Docker%2C+Trivy;Embedded+Systems+%C2%B7+Raspberry+Pi+%C2%B7+ESP32;Open+to+work" alt="Computer Engineer · DevOps · Embedded">
-I build pipelines that scan every container before it ships,<br>
-and embedded systems from the sensor to the database.
- 
-<br>
-<a href="https://bakirzanoun.de"><img src="https://img.shields.io/badge/bakirzanoun.de-2358D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-<a href="https://www.linkedin.com/in/bakir-zanoun-226b09108"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:bakirzanoun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
- 
-<br><br>
- 
-<img src="https://skillicons.dev/icons?i=gitlab,docker,linux,cs,dotnet,python,c,cpp,raspberrypi,arduino,react&perline=11" alt="Tech stack">
-</div>
+<h1 align="center">Hi, I'm Bakir 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2358D4&center=true&vCenter=true&width=620&lines=Computer+Engineer+(M.Eng.)+%C2%B7+Berlin;DevOps+%26+CI%2FCD+with+GitLab%2C+Docker%2C+Trivy;Embedded+Systems+%C2%B7+Raspberry+Pi+%C2%B7+ESP32;Open+to+work" alt="Computer Engineer · DevOps · Embedded"> </p> <p align="center"> I build pipelines that scan every container before it ships,<br> and embedded systems from the sensor to the database. </p> <p align="center"> <a href="https://bakirzanoun.de"><img src="https://img.shields.io/badge/bakirzanoun.de-2358D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a> <a href="https://www.linkedin.com/in/bakir-zanoun-226b09108"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:bakirzanoun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=gitlab,docker,linux,cs,dotnet,python,c,cpp,raspberrypi,arduino,react&perline=11" alt="Tech stack"> </p>
